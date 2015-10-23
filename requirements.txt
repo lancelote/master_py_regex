@@ -23,6 +23,7 @@ pickleshare==0.5          # via ipython
 ptyprocess==0.5           # via pexpect, terminado
 pygments==2.0.2           # via nbconvert
 pyzmq==14.7.0             # via jupyter-client
+regex==2015.10.22
 simplegeneric==0.8.1      # via ipython
 terminado==0.5            # via notebook
 tornado==4.2.1            # via notebook, terminado
